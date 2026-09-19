@@ -159,5 +159,9 @@ Possible future revisions may include:
 
 ## License
 
-No license has currently been added to this repository.
-If you intend to allow others to reuse or modify the design, a suitable open-source hardware license can be added.
+This project is licensed under the **Apache License 2.0**.
+
+You are free to use, modify, and distribute this project in accordance with the terms of the license.
+
+See the [`LICENSE`](LICENSE) file for the full license text.
+
